@@ -1,0 +1,3 @@
+include ':tellMeSDK'
+include ':app'
+rootProject.name = "TellMeSDK"
